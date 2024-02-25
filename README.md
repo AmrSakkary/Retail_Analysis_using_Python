@@ -3,7 +3,7 @@ This dataset encompasses details on sales transactions, salesperson profiles, pr
 
 ### Analysis purpose:
 
-* Evaluat the sales teams and checking when was the target budget met.
+* Evaluate the sales teams and check when was the target budget met.
 
 * Check top managers' performance
 
